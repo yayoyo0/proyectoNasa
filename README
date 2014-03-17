@@ -1,4 +1,4 @@
-In order to run  the script first instal the dependencies of the folder.
+In order to run the script first install all the dependencies of the folder.
 
 Then run the script using the comand ./nasa.py <filename>
 Then check the .xls file created in the directory of the script
