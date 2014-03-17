@@ -1,6 +1,7 @@
 In order to run  the script first instal the dependencies of the folder.
 
-Pre-requisites
-Use a .h5 file not a .hdf(in later updates this will be fixed)
 Then run the script using the comand ./nasa.py <filename>
 Then check the .xls file created in the directory of the script
+
+--V2.0
+	The script is now able to work with .hdf files as long as it has writing permisions in the folder that runs

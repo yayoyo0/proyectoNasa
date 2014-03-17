@@ -1,0 +1,12 @@
+#!/usr/bin/python
+
+import os
+import sys
+
+from os.path import basename
+
+# now you can call it directly with basename
+if sys.argv[1].endswith(".hdf"):
+    print("HDF")
+else: 
+    print("H5")
