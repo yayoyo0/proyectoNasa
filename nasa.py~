@@ -103,7 +103,7 @@ if len(sys.argv) == 2:
         writeExcel(dataDBAODL,"DBAODL 550")
         writeExcel(dataDBAODLS,"DBAODL 550 STD")
         writeExcel(dataSeA,"Sensor Azimuth")
-        writeExcel(dataSeZ,"Sensor Zenith")
+        writeExcel(dataSez,"Sensor Zenith")
         writeExcel(dataODLAO,"Optical Depth Land And Ocean")
         
         ##Save Excel book
